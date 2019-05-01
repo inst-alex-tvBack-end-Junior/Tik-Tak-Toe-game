@@ -12,7 +12,7 @@
 Icon
 
 # Thumbnails
-._*
+
 
 # Files that might appear in the root of a volume
 .DocumentRevisions-V100
